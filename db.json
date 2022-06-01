@@ -51,13 +51,17 @@
     {
       "country": "Unit",
       "id": 13
+    },
+    {
+      "country": "India",
+      "id": 14
     }
   ],
   "add-city": [
     {
       "country": "India",
       "city": "Bulandshahr",
-      "population": "120000000",
+      "population": "150000000",
       "id": 1
     },
     {
@@ -73,9 +77,9 @@
       "id": 3
     },
     {
-      "country": "UN",
-      "city": "Singapore",
-      "population": "1200000",
+      "country": "India",
+      "city": "Delhi",
+      "population": "1500000",
       "id": 4
     }
   ]
