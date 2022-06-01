@@ -79,10 +79,8 @@ All the data got stored in and called from <b>Json-Server</b>.
 
 <div style='page-break-after: always'></div>
 
-
 ### <u>A short clip which will give Project Overview</u>
 
-https://drive.google.com/file/d/1RCGqPF7n-URceIhuIJSU2JGvPA718BOn/view?usp=sharing
 
 <div style='page-break-after: always'></div>
 
