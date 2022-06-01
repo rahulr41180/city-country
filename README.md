@@ -94,7 +94,7 @@ https://drive.google.com/file/d/1RCGqPF7n-URceIhuIJSU2JGvPA718BOn/view?usp=shari
 
 > <a href="https://www.linkedin.com/in/rahul--rathor/" target="_blank">Linkedin</a>
 
-> <a href="https://medium.com/@www.rahulr41180/journey-of-cloning-of-the-website-overstock-1d22f190f56b" target="_blank">Blog</a>
+> <a href="https://medium.com/@www.rahulr41180" target="_blank">Blogs</a>
 
 > <a href="https://rahul-rathor-portfolio.vercel.app/" target="_blank">Portfolio</a>
 
