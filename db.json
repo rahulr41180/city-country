@@ -1,0 +1,82 @@
+{
+  "add-country": [
+    {
+      "country": "India",
+      "id": 1
+    },
+    {
+      "country": "India",
+      "id": 2
+    },
+    {
+      "country": "",
+      "id": 3
+    },
+    {
+      "country": "India",
+      "id": 4
+    },
+    {
+      "country": "India",
+      "id": 5
+    },
+    {
+      "country": "",
+      "id": 6
+    },
+    {
+      "country": "US",
+      "id": 7
+    },
+    {
+      "country": "Japan",
+      "id": 8
+    },
+    {
+      "country": "India",
+      "id": 9
+    },
+    {
+      "country": "India",
+      "id": 10
+    },
+    {
+      "country": "US",
+      "id": 11
+    },
+    {
+      "country": "UN",
+      "id": 12
+    },
+    {
+      "country": "Unit",
+      "id": 13
+    }
+  ],
+  "add-city": [
+    {
+      "country": "India",
+      "city": "Bulandshahr",
+      "population": "120000000",
+      "id": 1
+    },
+    {
+      "country": "India",
+      "city": "Dibai, Bulandshahr",
+      "population": "12000000",
+      "id": 2
+    },
+    {
+      "country": "US",
+      "city": "Aust",
+      "population": "1500000",
+      "id": 3
+    },
+    {
+      "country": "UN",
+      "city": "Singapore",
+      "population": "1200000",
+      "id": 4
+    }
+  ]
+}
