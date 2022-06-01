@@ -1,70 +1,102 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project I have tried to make a city information app.
 
-## Available Scripts
+<img src="https://miro.medium.com/max/2732/1*_Vbj0pohV90HMyRTwmFkSw.png" alt="" />
 
-In the project directory, you can run:
+<img src="https://miro.medium.com/max/2732/1*PyPG1F71wd3BgIDFSSX93w.png" alt="" />
 
-### `npm start`
+<img src="https://miro.medium.com/max/2732/1*lrlJvEBKaXfFl6nxUcBTNg.png" alt="" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img src="https://miro.medium.com/max/2732/1*eGgJBEqy0vqJSv-uU0J2WA.png" alt="" />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img src="https://miro.medium.com/max/2732/1*P8Z9DKEe4adw0Y2HJAnKvg.png" alt="" />
 
-### `npm test`
+<div style='page-break-after: always'></div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### <u>Deployed Link</u>
 
-### `npm run build`
+Deployed using heroku 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<a href="https://city-country-by-rahul-rathor.herokuapp.com/">https://city-country-by-rahul-rathor.herokuapp.com/</a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### <u>Run Locally</u>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Clone the project
 
-### `npm run eject`
+```
+https://github.com/rahulr41180/city-country
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Install npm packages
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+npm install
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Run the server
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```
+npm run server
+```
 
-## Learn More
+Run the Frontend
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+npm start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Redirect to
 
-### Code Splitting
+```
+http://localhost:3000
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<div style='page-break-after: always'></div>
 
-### Analyzing the Bundle Size
+### <u>Frontend Technologies I used</u>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- HTML
+- CSS
+- JavaScript
+- React
+- Redux
+- Material UI
 
-### Making a Progressive Web App
+### <u>Backend Technologies we used</u>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- Json-Server
 
-### Advanced Configuration
+### <u>For Deployment I used</u>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- Heroku
 
-### Deployment
+All the data got stored in and called from <b>Json-Server</b>.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<div style='page-break-after: always'></div>
 
-### `npm run build` fails to minify
+### <u>Functionalities</u>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Sorting
+- Filtering
+
+<div style='page-break-after: always'></div>
+
+
+### <u>A short clip which will give Project Overview</u>
+
+https://drive.google.com/file/d/1RCGqPF7n-URceIhuIJSU2JGvPA718BOn/view?usp=sharing
+
+<div style='page-break-after: always'></div>
+
+### <u>Credits :</u>
+
+<b>Rahul Rathor</b>
+
+> <a href="https://github.com/rahulr41180" target="_blank">Github</a>
+
+> <a href="https://www.linkedin.com/in/rahul--rathor/" target="_blank">Linkedin</a>
+
+> <a href="https://medium.com/@www.rahulr41180/journey-of-cloning-of-the-website-overstock-1d22f190f56b" target="_blank">Blog</a>
+
+> <a href="https://rahul-rathor-portfolio.vercel.app/" target="_blank">Portfolio</a>
+
+
+# Thank You :sparkling_heart:
