@@ -35,6 +35,8 @@ Run the server
 
 ```
 npm run server
+or
+npx json-server db.json --port 8080 --watch
 ```
 
 Run the Frontend
